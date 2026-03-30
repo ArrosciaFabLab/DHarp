@@ -15,11 +15,11 @@ DHarp
 <a href="https://www.buymeacoffee.com/Morriz" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Offrici un caffè" style="height: auto !important;width: auto !important;" ></a>
 
 <BR>
-Progetto DHarp - Arpa elettrificata per proteggere gli alveari dalle vespe vellutine.
+Progetto DHarp - Arpa elettrificata per proteggere gli alveari delle api dalle vespe vellutine.
 
 
 # Termini dell'utilizzo
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
-Tutto il materiale pubblicato da Arroscia FabLab è licenziata sotto **[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/ "Creative Commons License")**, il chè significa che i documenti possono essere condivisi, copiati e modificati senza richiedere nessun permesso al nostro FabLab o all'autore del singolo documento. L'unica condizione è che attribuiate il lavoro sui documenti originali all'Arroscia FabLab e al suo autore, attraverso un link e indichiate ogni modifica apportata.
+Tutto il materiale pubblicato da Arroscia FabLab è licenziata sotto **[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/ "Creative Commons License")**, il chè significa che i documenti possono essere condivisi, copiati e modificati senza richiedere nessun permesso al nostro FabLab o all'autore del singolo documento. L'unica condizione è che **attribuiate il lavoro sui documenti originali all'Arroscia FabLab e al suo autore, attraverso un link e indichiate ogni modifica apportata**.
