@@ -14,7 +14,7 @@ DHarp
 
 <a href="https://www.buymeacoffee.com/arrosciafablab" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Offrici un caffè" style="height: auto !important;width: auto !important;" ></a>
 
-<img src="https://github.com/ArrosciaFabLab/DHarp/tree/main/Immagini/Costruzione/IMG_3150.jpg" alt="Le prime tre DHarp 2.0 complete">
+<img src="https://github.com/ArrosciaFabLab/DHarp/tree/main/Immagini/Costruzione/IMG_3150.jpg" title="Le prime tre DHarp 2.0 complete" alt="Le prime tre DHarp 2.0 complete">
 
 <BR>
 Progetto DHarp - Arpa elettrificata per proteggere gli alveari delle api dalle vespe vellutine.
